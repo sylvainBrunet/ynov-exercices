@@ -1,0 +1,1 @@
+On crée les deux ligne de header avec le status 301 et ensuite le fichier ou l'adresse vers laquelle on redirige

@@ -1,0 +1,3 @@
+a) On voit dans l'onglet réseaux toute les requetes et que google charge les images par paquet
+b) les requetes sont envoyé analyser et renvoyé
+c) partitionner le téléchargement des images sur plusieurs server si google fait 6 requetes en meme temps il faut donc par exemple 4 server pour afficher les 20 images d'un coup.

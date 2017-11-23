@@ -1,0 +1,1 @@
+Toute les requetes se lancent en même temps on est ici avec le protocole HTTP 2.0

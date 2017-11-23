@@ -1,0 +1,25 @@
+General
+Request URL:http://localhost:8000/
+Request Method:GET
+Status Code:200 OK
+Remote Address:[::1]:8000
+Referrer Policy:no-referrer-when-downgrade
+
+
+Response header
+Connection:close
+Content-Length:8
+Content-Type:text/html; charset=UTF-8
+Host:localhost:8000
+
+Request Headers
+
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:Webstorm-d5d50a09=1f91bd4c-3b9a-423d-9172-db3fe8c10822
+Host:localhost:8000
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
